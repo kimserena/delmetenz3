@@ -54,6 +54,7 @@ p.about-info {
 
 .about-visual {
     background: url('../img/about.png') no-repeat center;
+    background-size: 100%;
     height: 300px;
 }
 
@@ -390,6 +391,7 @@ ul.tabs li.current {
 .requestbg {
     height: 300px;
     background: url("../img/request.png") no-repeat center;
+    background-size: 100%;
 }
 
 .requestbg p {
